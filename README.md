@@ -1,4 +1,4 @@
-Data Structures & Algorithms 🚀
+Data Structures & Algorithms 🚀 <br>
 This repository contains my collection of Data Structure and Algorithm (DSA) solutions, primarily from LeetCode, created to strengthen problem-solving skills and prepare for coding interviews.
 
 <!---LeetCode Topics Start-->
