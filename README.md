@@ -1,5 +1,5 @@
-# Data-Structure-And-Algorithms
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Data Structures & Algorithms 🚀
+This repository contains my collection of Data Structure and Algorithm (DSA) solutions, primarily from LeetCode, created to strengthen problem-solving skills and prepare for coding interviews.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
