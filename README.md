@@ -34,4 +34,5 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
