@@ -30,4 +30,8 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0018-4sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
