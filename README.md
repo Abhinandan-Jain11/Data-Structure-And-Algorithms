@@ -11,6 +11,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
