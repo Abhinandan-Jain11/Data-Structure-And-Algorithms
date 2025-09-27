@@ -13,6 +13,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
