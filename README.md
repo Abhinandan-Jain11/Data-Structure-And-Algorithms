@@ -17,6 +17,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,13 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0007-reverse-integer](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0069-sqrtx) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
