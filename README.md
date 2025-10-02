@@ -50,11 +50,13 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0069-sqrtx](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/3336-water-bottles-ii) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
