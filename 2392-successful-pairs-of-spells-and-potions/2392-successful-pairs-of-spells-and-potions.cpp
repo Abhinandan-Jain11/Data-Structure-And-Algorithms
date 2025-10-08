@@ -18,8 +18,8 @@ public:
                 else{
                     low = mid+1;
                 }
-                cnt = m-low;
             }
+            cnt = m-low;
             pairs.push_back(cnt);
             i++;
         }
