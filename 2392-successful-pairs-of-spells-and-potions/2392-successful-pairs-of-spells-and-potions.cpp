@@ -5,23 +5,10 @@ public:
         int m = potions.size();
         sort(potions.begin(),potions.end());
         vector<int> pairs;
-        int i=0;
-        while(i<n){
-            int cnt = 0;
-            int low = 0;
-            int high = m-1;
-            while(low<=high){
-                int mid = (low+high)/2;
-                if((long long)spells[i]*potions[mid] >= success){
-                    high = mid-1;
-                }
-                else{
-                    low = mid+1;
-                }
-            }
-            cnt = m-low;
-            pairs.push_back(cnt);
-            i++;
+        for(int i=0; i<n; i++){
+            long long minPotion = (success + (long long)spells[i] - 1)/spells[i];
+            int index = lower_bound(potions.begin(),potions.end(),minPotion)- potions.begin();
+            pairs.push_back(m - index);
         }
         return pairs;
     }
