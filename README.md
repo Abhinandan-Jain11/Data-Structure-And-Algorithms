@@ -87,4 +87,12 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
