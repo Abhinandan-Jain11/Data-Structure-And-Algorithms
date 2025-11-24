@@ -44,6 +44,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0018-4sum) |
+| [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
@@ -87,10 +88,12 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
