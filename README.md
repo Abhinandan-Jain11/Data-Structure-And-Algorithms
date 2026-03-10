@@ -127,6 +127,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |
