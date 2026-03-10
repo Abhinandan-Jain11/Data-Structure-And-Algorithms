@@ -13,6 +13,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
@@ -111,4 +112,8 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
