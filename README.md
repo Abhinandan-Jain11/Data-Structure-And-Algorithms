@@ -53,6 +53,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0018-4sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -122,4 +123,12 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | ------- |
 | [0136-single-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
