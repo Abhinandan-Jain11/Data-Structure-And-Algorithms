@@ -60,6 +60,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -135,6 +136,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
