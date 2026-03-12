@@ -22,6 +22,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0717-1-bit-and-2-bit-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -60,6 +61,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0018-4sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
