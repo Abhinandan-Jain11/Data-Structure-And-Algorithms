@@ -19,6 +19,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0907-koko-eating-bananas) |
@@ -107,6 +108,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
