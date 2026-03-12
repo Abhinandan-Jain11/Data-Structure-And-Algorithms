@@ -111,6 +111,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -143,4 +145,8 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
