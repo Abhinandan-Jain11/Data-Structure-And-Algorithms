@@ -83,6 +83,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0069-sqrtx](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1642-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/3336-water-bottles-ii) |
 ## Simulation
@@ -104,6 +105,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -144,6 +146,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0151-reverse-words-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
