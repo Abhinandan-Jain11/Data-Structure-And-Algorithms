@@ -6,6 +6,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0027-remove-element) |
@@ -141,6 +142,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -155,4 +157,8 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
