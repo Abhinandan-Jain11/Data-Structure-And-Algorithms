@@ -1,22 +1,11 @@
 class Solution {
 public:
     string largestOddNumber(string num) {
-        int n = num.size();
-        string ans = "";
-        int index = -1;
-        for(int i=n-1; i>=0; i--){
+        for(int i=num.size()-1; i>=0; i--){
             if(num[i]%2 != 0){
-                index = i;
-                break;
+                return num.substr(0,i+1);
             }
         }
-        if(index == -1){
-            return ans;
-        }else{
-            for(int i=0; i<=index; i++){
-            ans += num[i];
-            }
-        }
-        return ans;
+        return "";
     }
 };
