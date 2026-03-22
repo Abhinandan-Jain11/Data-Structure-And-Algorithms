@@ -166,5 +166,6 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
