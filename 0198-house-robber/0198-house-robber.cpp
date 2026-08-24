@@ -1,9 +1,7 @@
 class Solution {
 public:
     int solveTab(int n, vector<int> &nums){
-        if(n == 0) return nums[0];
-        if(n<0) return 0;
-
+        
         vector<int> dp(n, -1);
         
         dp[0] = nums[0];
