@@ -6,6 +6,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -120,6 +121,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
