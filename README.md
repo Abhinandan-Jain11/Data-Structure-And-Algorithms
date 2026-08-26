@@ -14,6 +14,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | ------- |
 | [0001-two-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -202,4 +204,8 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
