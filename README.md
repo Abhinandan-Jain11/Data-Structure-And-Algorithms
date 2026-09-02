@@ -25,6 +25,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0169-majority-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -81,6 +82,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0018-4sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -137,6 +139,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0142-linked-list-cycle-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -196,10 +199,12 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
