@@ -92,6 +92,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1642-water-bottles) |
@@ -108,11 +109,13 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0213-house-robber-ii) |
