@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solveTab(int m, int n, vector<vector<int>> &obstacleGrid){
+    int spaceOpt(int m, int n, vector<vector<int>> &obstacleGrid){
 
         vector<int> prev(n,0);
 
@@ -19,8 +19,8 @@ public:
                 }else{
                     up = prev[j];
                     if(j>0) left = temp[j-1];
+                    temp[j] = up + left;
                 }
-                temp[j] = up + left;
             }
             prev = temp;
         }
@@ -29,6 +29,6 @@ public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
-        return solveTab(m,n,obstacleGrid);
+        return spaceOpt(m,n,obstacleGrid);
     }
 };
