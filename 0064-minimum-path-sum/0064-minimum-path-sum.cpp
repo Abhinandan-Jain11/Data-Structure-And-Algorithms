@@ -1,26 +1,30 @@
 class Solution {
 public:
-    int solveMem(int r, int c, vector<vector<int>> &dp, vector<vector<int>> &grid){
+    int solveTab(int m, int n, vector<vector<int>> &grid){
 
-        if(r==0 && c==0) return grid[0][0];
-        if(r<0 || c<0) return INT_MAX;
+        vector<vector<int>> dp(m, vector<int> (n,-1));
 
-        if(dp[r][c] != -1) return dp[r][c];
+        dp[0][0] = grid[0][0];
 
-        int up = solveMem(r-1, c, dp, grid);
-        int left = solveMem(r, c-1, dp, grid);
-
-        if(up != INT_MAX) up += grid[r][c];
-
-        if(left != INT_MAX) left += grid[r][c];
-
-        return dp[r][c] = min(up,left);
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                int up = 0;
+                int left = 0;
+                if(i==0 && j==0){
+                    continue;
+                }
+                if(i>0) up = grid[i][j] + dp[i-1][j];
+                else up = INT_MAX;
+                if(j>0) left = grid[i][j] + dp[i][j-1];
+                else left = INT_MAX;
+                dp[i][j] = min(up,left);
+            }
+        }
+        return dp[m-1][n-1];
     }
     int minPathSum(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-
-        vector<vector<int>> dp(m, vector<int> (n,-1));
-        return solveMem(m-1,n-1,dp,grid);
+        return solveTab(m,n,grid);
     }
 };
