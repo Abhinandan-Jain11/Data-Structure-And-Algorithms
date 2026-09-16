@@ -19,6 +19,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0136-single-number) |
@@ -120,6 +121,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0062-unique-paths](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0213-house-robber-ii) |
