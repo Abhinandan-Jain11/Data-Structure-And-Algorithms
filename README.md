@@ -218,10 +218,23 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
