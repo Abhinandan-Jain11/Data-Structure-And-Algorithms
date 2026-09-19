@@ -27,6 +27,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0162-find-peak-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
@@ -218,6 +219,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -225,13 +227,16 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0063-unique-paths-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
