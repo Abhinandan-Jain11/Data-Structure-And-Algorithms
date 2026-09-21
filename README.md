@@ -38,6 +38,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0724-find-pivot-index](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -128,6 +129,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0198-house-robber](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +232,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
