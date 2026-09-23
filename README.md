@@ -32,6 +32,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -130,6 +131,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0198-house-robber](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1463-cherry-pickup-ii) |
 ## Greedy
@@ -272,4 +274,12 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
