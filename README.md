@@ -245,6 +245,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0110-balanced-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -270,6 +271,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -277,6 +279,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -285,4 +288,8 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
