@@ -128,6 +128,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0064-minimum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0410-split-array-largest-sum) |
@@ -243,6 +244,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -270,6 +272,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -278,6 +281,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Knapsack Problem
@@ -291,5 +295,6 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
