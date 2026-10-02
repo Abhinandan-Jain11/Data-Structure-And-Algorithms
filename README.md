@@ -22,6 +22,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0120-triangle](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0162-find-peak-element) |
@@ -227,6 +228,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 ## Matrix
@@ -235,6 +237,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0063-unique-paths-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
@@ -246,6 +249,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -257,6 +261,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0101-symmetric-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0733-flood-fill) |
