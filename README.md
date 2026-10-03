@@ -95,6 +95,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0229-majority-element-ii](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1859-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
@@ -194,6 +195,7 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | [0344-reverse-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0409-longest-palindrome) |
+| [1859-sorting-the-sentence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -311,4 +313,8 @@ This repository contains my collection of Data Structure and Algorithm (DSA) sol
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Abhinandan-Jain11/Data-Structure-And-Algorithms/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
